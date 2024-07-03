@@ -12,7 +12,7 @@ I am a driven B-Tech graduate passionate about leveraging technical expertise an
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
 | **Government Educational Transaction Services Using Blockchain**  | Website created using Flask framework and blockchain technology      | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/Samna2001/Government-Educational-Transactions-Using-Blockchain)             |
-| ** Plant Disease Detection Using Machine Learning	**  |  Website created using Django framework that detects 25 plant diseases	                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
+| **Plant Disease Detection Using Machine Learning**  |  Website created using Django framework that detects 25 plant diseases	                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
 
 #### Leadership and Influence:
 
@@ -65,6 +65,7 @@ In the longer term, I aspire to transition into a Data Scientist role. Building 
 #### Competitive Website Profiles:
 -[Kaggle](https://www.kaggle.com/samnasalam)
 -[GeeksforGeeks](https://www.geeksforgeeks.org/user/samnasal2ex5/)
+-[mulearn](https://app.mulearn.org/dashboard/profile)
 
 
 
