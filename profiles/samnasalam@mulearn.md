@@ -17,11 +17,11 @@ I am a driven B-Tech graduate passionate about leveraging technical expertise an
 #### Leadership and Influence:
 
 I have demonstrated leadership and influence through various roles and projects throughout my academic and professional journey.
--As the Community Lead at the Innovation And Entrepreneurship Development Centres (IEDC) at Ilahia College of Engineering and Technology (ICET), I led a team in organizing events and initiatives to promote innovation and entrepreneurship among students. This role involved coordinating with different stakeholders, managing event logistics, and ensuring effective communication within the team.
+As the Community Lead at the Innovation And Entrepreneurship Development Centres (IEDC) at Ilahia College of Engineering and Technology (ICET), I led a team in organizing events and initiatives to promote innovation and entrepreneurship among students. This role involved coordinating with different stakeholders, managing event logistics, and ensuring effective communication within the team.
 
--In my role as Joint Secretary at the Computer Society of India, ICET, I played a key role in organizing technical workshops and seminars that helped enhance the skills of my peers. I led efforts to bring industry experts to campus, providing students with valuable insights into the latest technological trends and practices.
+In my role as Joint Secretary at the Computer Society of India, ICET, I played a key role in organizing technical workshops and seminars that helped enhance the skills of my peers. I led efforts to bring industry experts to campus, providing students with valuable insights into the latest technological trends and practices.
 
--One of my significant leadership experiences was during the development of the "Government Educational Transaction Services Using Blockchain" project. I led a team of developers, coordinating tasks, managing timelines, and ensuring the successful implementation of the project. My ability to guide the team through challenges and maintain a collaborative environment was instrumental in the project's success.
+One of my significant leadership experiences was during the development of the "Government Educational Transaction Services Using Blockchain" project. I led a team of developers, coordinating tasks, managing timelines, and ensuring the successful implementation of the project. My ability to guide the team through challenges and maintain a collaborative environment was instrumental in the project's success.
 
 
 These experiences have honed my leadership and influencing skills, enabling me to inspire and guide teams towards achieving common goals. I am committed to continuing to develop these skills and leveraging them to drive innovation and success in my future endeavors.
@@ -55,7 +55,11 @@ In the longer term, I aspire to transition into a Data Scientist role. Building 
 
 #### Highly Visible Technical Content:
 
-- Highlight any highly visible technical blog posts, articles, or video series you have created.
+ One of my notable contributions to highly visible technical content is the publication of my paper titled "Governmental Educational Services Using Blockchain: A Comprehensive Analysis" in the International Journal of Research Publication and Reviews. This paper explores the potential of blockchain technology in securing and streamlining educational transactions within the government sector. It provides a detailed analysis of the current challenges faced by governmental educational services and proposes a blockchain-based solution to enhance security, transparency, and efficiency.
+
+The publication has received positive feedback from the academic and professional communities for its thorough research and practical insights. It showcases my ability to conduct in-depth analysis and present complex technical concepts in a clear and comprehensible manner. This publication not only highlights my expertise in blockchain technology but also demonstrates my commitment to contributing valuable knowledge to the field.
+
+
 
 #### Highly Used Software Tools:
 
@@ -63,9 +67,9 @@ In the longer term, I aspire to transition into a Data Scientist role. Building 
 - GitHub
 
 #### Competitive Website Profiles:
--[Kaggle](https://www.kaggle.com/samnasalam)
--[GeeksforGeeks](https://www.geeksforgeeks.org/user/samnasal2ex5/)
--[mulearn](https://app.mulearn.org/dashboard/profile)
+- [Kaggle](https://www.kaggle.com/samnasalam)
+- [GeeksforGeeks](https://www.geeksforgeeks.org/user/samnasal2ex5/)
+- [mulearn](https://app.mulearn.org/dashboard/profile)
 
 
 
